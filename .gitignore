@@ -116,3 +116,4 @@ coverage.xml
 # Local configuration files
 config.local.*
 local-settings.*
+workshop-email-template.md
