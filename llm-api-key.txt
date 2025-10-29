@@ -1,4 +1,3 @@
 LLM API Key for use in this workshop:
 
 
-sk-oekoCoDVHIwg9ePYZleUzA
